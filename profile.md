@@ -107,101 +107,141 @@ zawa-ch.の主成分。
 </dd>
 </dl>
 
-<BannerItem title="Color Inside Yourself" href="https://ciy-totem.com/question-share/oO1YW7csD1/zFuiIvmlKt" backgroundImage="/assets/ciy-totem.png">トーテム: 炎の皇帝</BannerItem>
-
-### Mentuzzle 「もしも魔法が使えたら?」
-<BannerItem title="" href="https://mentuzzle.com/shindan/original/moshimaho/type/Spatiotemporal-alpha" backgroundImage="https://mentuzzle.com/view/shindan/original/moshimaho/asset/img/result/type/Spatiotemporal/ogp_beta.png">習得魔法: 時空間魔法</BannerItem>
-<FolderBlock><template #default>
-
-<DateTip date="2025-08-11 04:17:00+0900" fuzzyness="minute" /> ⏳Spatiotemporal + 💗Psyche (🎲Fortunist)
-
-- 孤独を愛する
-- 許容しがたい気持ち
-- 期待と恐れが入り交じる
-- 好きなもの優先したい
-- 不摂生
-
-<dl>
-<dt>本能的エネルギー: 22%</dt>
-<dd> <ProgressGauge label="勝利欲求" color="#f25d18" value-display="percentage" :value="0.22" /></dd>
-<dd><ProgressGauge label="競争的態度" color="#f25d18" value-display="percentage" :value="0.22" /></dd>
-<dt>個人的領域: 86% </dt>
-<dd><ProgressGauge label="内的傾向" color="#4691b3" value-display="percentage" :value="0.75" /></dd>
-<dd><ProgressGauge label="回避傾向" color="#4691b3" value-display="percentage" :value="0.97" /></dd>
-<dt>心の温度: 50%</dt>
-<dd><ProgressGauge label="感受性" color="#e846a7" value-display="percentage" :value="0.47" /></dd>
-<dd><ProgressGauge label="協調性" color="#e846a7" value-display="percentage" :value="0.52" /></dd>
-<dt>隙と戒め: 43%</dt>
-<dd><ProgressGauge label="倫理観" color="#6ed941" value-display="percentage" :value="0.63" /></dd>
-<dd><ProgressGauge label="行動一貫性" color="#6ed941" value-display="percentage" :value="0.22" /></dd>
-<dt>自己解離性: 69%</dt>
-<dd><ProgressGauge label="自己批評性" color="#8517e3" value-display="percentage" :value="0.63" /></dd>
-<dd><ProgressGauge label="対人不安性" color="#8517e3" value-display="percentage" :value="0.75" /></dd>
-</dl>
-
-スキル: Precognitive Sight lv.4
-- <ProgressGauge label="攻撃力" color="#bf565a" value-display="value" :value="55357" :max="132859" />
-- <ProgressGauge label="防御力" color="#567fbf" value-display="value" :value="77501" :max="132859" />
-- <ProgressGauge label="反応速度" color="#7cbdbf" value-display="value" :value="82106" :max="132859" />
-- <ProgressGauge label="運" color="#d982ab" value-display="value" :value="96973" :max="132859" />
-</template></FolderBlock>
-
 ### 各種診断実行結果
-<FolderBlock><template #default>
-
-:::details 注意事項
-これらの診断はユングのタイプ論、およびその他の精神タイプ分類論に基づく結果を示していますが、
+:::info NOTE
 これらの結果は他者とのカウンセリング等を行っておらず、自己推定に基づく結果であることに留意してください。
 :::
 
-- Mentuzzle 16タイプ性格診断: [INTJ-C](https://mentuzzle.com/shindan/report/16type/type/INTJ){target=_blank}
-	<DateTip date="2025-02-07 03:18:15+0900" fuzzyness="second" />
-	:::details 詳細
-	<ProgressGauge label="Fi" value-display="value" color="#c95353" :min="-86" :max="86" :value="-4" />
-	<ProgressGauge label="Fe" value-display="value" color="#D95782" :min="-86" :max="86" :value="-18" />
-	<ProgressGauge label="Ti" value-display="value" color="#4b5ba6" :min="-86" :max="86" :value="54" />
-	<ProgressGauge label="Te" value-display="value" color="#62b5d9" :min="-86" :max="86" :value="-11" />
-	<ProgressGauge label="Si" value-display="value" color="#e6cd73" :min="-86" :max="86" :value="41" />
-	<ProgressGauge label="Se" value-display="value" color="#d9a557" :min="-86" :max="86" :value="-40" />
-	<ProgressGauge label="Ni" value-display="value" color="#60b5bf" :min="-86" :max="86" :value="58" />
-	<ProgressGauge label="Ne" value-display="value" color="#68b376" :min="-86" :max="86" :value="-2" />
-	:::
-	:::details 履歴
-	- <DateTip date="2024-10-11 04:10:54+0900" fuzzyness="second" /> INTP-C
-	:::
+#### Color Inside Yourself トーテム
+<BannerItem title="炎の皇帝" href="https://ciy-totem.com/question-share/oO1YW7csD1/zFuiIvmlKt" backgroundImage="/assets/ciy-totem.png"></BannerItem>
 
-- Mentuzzle 9エニア・デルタタイプ診断: [6w5 holy △641 sx>sp](https://mentuzzle.com/shindan/report/9ennea/type/6holy){target=_blank}
-	<DateTip date="2025-02-09 18:39:08+0900" fuzzyness="second" />
-	:::details 詳細
-	<ProgressGauge label="1" value-display="value" color="white" :max="42" :value="32" />
-	<ProgressGauge label="2" value-display="value" color="gray" :max="42" :value="32" />
-	<ProgressGauge label="3" value-display="value" color="gray" :max="42" :value="22" />
-	<ProgressGauge label="4" value-display="value" color="white" :max="42" :value="37" />
-	<ProgressGauge label="5" value-display="value" color="lightgray" :max="42" :value="39" />
-	<ProgressGauge label="6" value-display="value" color="var(--color--accent)" :max="42" :value="42" />
-	<ProgressGauge label="7" value-display="value" color="gray" :max="42" :value="20" />
-	<ProgressGauge label="8" value-display="value" color="gray" :max="42" :value="32" />
-	<ProgressGauge label="9" value-display="value" color="gray" :max="42" :value="28" />
-	<ProgressGauge label="sp" value-display="value" color="lightgray" :max="24" :value="17" />
-	<ProgressGauge label="so" value-display="value" color="gray" :max="24" :value="11" />
-	<ProgressGauge label="sx" value-display="value" color="var(--color--accent)" :max="24" :value="24" />
-	:::
-	:::details 履歴
-	- <DateTip date="2024-10-11 03:16:47+0900" fuzzyness="second" /> 4w5 △461 sx>so
-	:::
+#### Mentuzzle 「もしも魔法が使えたら?」
+<BannerItem title="時空間魔法" href="https://mentuzzle.com/shindan/original/moshimaho/type/Spatiotemporal-alpha" backgroundImage="https://mentuzzle.com/view/shindan/original/moshimaho/asset/img/result/type/Spatiotemporal/ogp_beta.png">⏳Spatiotemporal + 🖼Genesis (🎲Fortunist)</BannerItem>
+<FolderBlock><template #default>
 
--  性格診断セブン 辛口性格診断16: [INTP](https://xn--16-573d25rtpd1v4e.com/intp.php){target=_blank}
-	<DateTip date="2025-02-07 03:44:00+0900" fuzzyness="minute" />
+最終更新: <DateTip date="2026-01-08 01:18:14+0900" fuzzyness="minute" />
 
-- 16personalities.com 診断: [INTP-T](https://www.16personalities.com/intp-personality){target=_blank}
-	<DateTip date="2025-07-11 01:35:00+0900" fuzzyness="minute" />
-	:::details 詳細
-	<ProgressGauge label="Introverted" value-display="percentage" :value="0.89" />
-	<ProgressGauge label="Intuitive" value-display="percentage" :value="0.66" />
-	<ProgressGauge label="Thinking" value-display="percentage" :value="0.59" />
-	<ProgressGauge label="Prospecting" value-display="percentage" :value="0.75" />
-	<ProgressGauge label="Turbulent" value-display="percentage" :value="0.68" />
-	:::
+- 孤独を愛する
+- 1人でいたいし人といたい
+- 力をゆるめつつやる
+- ほんのり強気
+
+**Mind Indication**
+<dl>
+<dt>本能的エネルギー: 39%</dt>
+<dd> <ProgressGauge label="勝利欲求" color="#f25d18" value-display="percentage" :value="0.36" /></dd>
+<dd><ProgressGauge label="競争的態度" color="#f25d18" value-display="percentage" :value="0.41" /></dd>
+<dt>個人的領域: 76% </dt>
+<dd><ProgressGauge label="内的傾向" color="#4691b3" value-display="percentage" :value="0.75" /></dd>
+<dd><ProgressGauge label="回避傾向" color="#4691b3" value-display="percentage" :value="0.77" /></dd>
+<dt>心の温度: 61%</dt>
+<dd><ProgressGauge label="感受性" color="#e846a7" value-display="percentage" :value="0.61" /></dd>
+<dd><ProgressGauge label="協調性" color="#e846a7" value-display="percentage" :value="0.61" /></dd>
+<dt>隙と戒め: 37%</dt>
+<dd><ProgressGauge label="倫理観" color="#6ed941" value-display="percentage" :value="0.47" /></dd>
+<dd><ProgressGauge label="行動一貫性" color="#6ed941" value-display="percentage" :value="0.27" /></dd>
+<dt>自己解離性: 33%</dt>
+<dd><ProgressGauge label="自己批評性" color="#8517e3" value-display="percentage" :value="0.38" /></dd>
+<dd><ProgressGauge label="対人不安性" color="#8517e3" value-display="percentage" :value="0.27" /></dd>
+</dl>
+
+**Skill Status**
+- <ProgressGauge label="攻撃力" color="#bf565a" value-display="value" :value="39857" :max="132859" />
+- <ProgressGauge label="防御力" color="#567fbf" value-display="value" :value="84144" :max="132859" />
+- <ProgressGauge label="反応速度" color="#7cbdbf" value-display="value" :value="80911" :max="132859" />
+- <ProgressGauge label="運" color="#d982ab" value-display="value" :value="119717" :max="132859" />
+
+**Skills**
+- ⏳ Precognitive Sight Lv.5
+- ⏳ Temporal Reversal Lv.4
+- ⏳ Blink Step Lv.4
+- ⏳ Chrono Lock Lv.2
+- 🖼 Idea Embodiment Lv.1
+</template></FolderBlock>
+
+#### Mentuzzle 16タイプ性格診断
+<BannerItem title="INTP-A" href="https://mentuzzle.com/shindan/report/16type/type/INTP" target="_blank" backgroundImage="https://mentuzzle.com/view/shindan/report/16type/asset/img/result/type/INTP/04_resultThumb.jpg?1693484064">
+理論を立案する研究者
+</BannerItem>
+<FolderBlock><template #default>
+
+最終更新: <DateTip date="2026-01-08 01:42:40+0900" fuzzyness="second" />
+<ProgressGauge label="Fi" value-display="value" color="#c95353" :min="-86" :max="86" :value="11" />
+<ProgressGauge label="Fe" value-display="value" color="#D95782" :min="-86" :max="86" :value="0" />
+<ProgressGauge label="Ti" value-display="value" color="#4b5ba6" :min="-86" :max="86" :value="45" />
+<ProgressGauge label="Te" value-display="value" color="#62b5d9" :min="-86" :max="86" :value="-29" />
+<ProgressGauge label="Si" value-display="value" color="#e6cd73" :min="-86" :max="86" :value="5" />
+<ProgressGauge label="Se" value-display="value" color="#d9a557" :min="-86" :max="86" :value="-44" />
+<ProgressGauge label="Ni" value-display="value" color="#60b5bf" :min="-86" :max="86" :value="56" />
+<ProgressGauge label="Ne" value-display="value" color="#68b376" :min="-86" :max="86" :value="10" />
+
+:::details 履歴
+- <DateTip date="2025-02-07 03:18:15+0900" fuzzyness="second" /> [INTJ-C](https://mentuzzle.com/shindan/report/16type/type/INTJ)
+- <DateTip date="2024-10-11 04:10:54+0900" fuzzyness="second" /> [INTP-C](https://mentuzzle.com/shindan/report/16type/type/INTP)
+:::
+</template></FolderBlock>
+
+#### Mentuzzle 9エニア・デルタタイプ診断
+<BannerItem title="5w4 dark △549 sx>sp" href="https://mentuzzle.com/shindan/report/9ennea/type/5dark" target="_blank" backgroundImage="https://mentuzzle.com/view/shindan/report/9ennea/asset/img/result/type/type5/ogp_dark.png?1714399357">
+考える人
+</BannerItem>
+<FolderBlock><template #default>
+
+最終更新: <DateTip date="2026-01-08 02:27:02+0900" fuzzyness="second" />
+
+- 研究熱心
+- 自分のことが大事
+- 時には迷う
+
+<ProgressGauge label="1" value-display="value" color="gray" :max="44" :value="31" />
+<ProgressGauge label="2" value-display="value" color="gray" :max="44" :value="25" />
+<ProgressGauge label="3" value-display="value" color="gray" :max="44" :value="18" />
+<ProgressGauge label="4" value-display="value" color="white" :max="44" :value="43" />
+<ProgressGauge label="5" value-display="value" color="var(--color--accent-fg)" :max="44" :value="44" />
+<ProgressGauge label="6" value-display="value" color="gray" :max="44" :value="40" />
+<ProgressGauge label="7" value-display="value" color="gray" :max="44" :value="20" />
+<ProgressGauge label="8" value-display="value" color="gray" :max="44" :value="24" />
+<ProgressGauge label="9" value-display="value" color="white" :max="44" :value="40" />
+<ProgressGauge label="sp" value-display="value" color="lightgray" :max="19" :value="16" />
+<ProgressGauge label="so" value-display="value" color="gray" :max="19" :value="7" />
+<ProgressGauge label="sx" value-display="value" color="var(--color--accent-fg)" :max="19" :value="19" />
+
+:::details 履歴
+- <DateTip date="2025-02-09 18:39:08+0900" fuzzyness="second" /> [6w5 holy △641 sx>sp](https://mentuzzle.com/shindan/report/9ennea/type/6holy){target=_blank}
+- <DateTip date="2024-10-11 03:16:47+0900" fuzzyness="second" /> [4w5 dark △461 sx>so](https://mentuzzle.com/shindan/report/9ennea/type/4dark){target=_blank}
+:::
+</template></FolderBlock>
+
+#### 性格診断セブン 辛口性格診断16
+<BannerItem title="INTP" href="https://xn--16-573d25rtpd1v4e.com/intp.php" target="_blank" backgroundColor="#4b5ba6">
+独創的に問題を解決する人
+</BannerItem>
+<FolderBlock><template #default>
+
+最終更新: <DateTip date="2026-01-08 01:55:56+0900" fuzzyness="minute" />
+
+:::details 履歴
+- <DateTip date="2025-02-07 03:44:00+0900" fuzzyness="minute" /> [INTP](https://xn--16-573d25rtpd1v4e.com/intp.php){target=_blank}
+:::
+</template></FolderBlock>
+
+#### 16personalities.com 診断
+<BannerItem title="INTP-T" href="https://www.16personalities.com/intp-personality" target="_blank" backgroundImage="https://www.16personalities.com/static/images/social/intp.png?v=3">
+論理学者
+</BannerItem>
+<FolderBlock><template #default>
+
+最終更新: <DateTip date="2026-01-08 02:53:59+0900" fuzzyness="second" />
+
+<ProgressGauge label="Extraverted < Introverted" value-display="value" color="rgb(66, 152, 180)" :min="-1" :max="1" :value="0.88" />
+<ProgressGauge label="iNtuitive > obServant" value-display="value" color="rgb(228, 174, 58)" :min="-1" :max="1" :value="-0.66" />
+<ProgressGauge label="Thinking > Feeling" value-display="value" color="rgb(51, 164, 116)" :min="-1" :max="1" :value="-0.26" />
+<ProgressGauge label="Judging < Prospecting" value-display="value" color="rgb(136, 97, 154)" :min="-1" :max="1" :value="0.56" />
+<ProgressGauge label="Assertive < Turbulent" value-display="value" color="rgb(242, 94, 98)" :min="-1" :max="1" :value="0.38" />
+
+:::details 履歴
+- <DateTip date="2025-07-11 01:35:00+0900" fuzzyness="minute" /> [INTP-T](https://www.16personalities.com/intp-personality){target=_blank}
+:::
 </template></FolderBlock>
 
 ## できること
