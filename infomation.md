@@ -39,4 +39,4 @@ const { theme } = useData<ThemeConfig>();
 ## 著作権
 {{ theme.footer?.copyright }}
 
-このサイトは<a target="_blank" href="https://github.com/zawa-ch/zawa-ch/blob/master/LICENSE.md">既定のライセンス</a>の下で公開されています。
+このサイトは<a target="_blank" href="/license">既定のライセンス</a>の下で公開されています。
