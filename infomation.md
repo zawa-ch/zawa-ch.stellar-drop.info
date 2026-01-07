@@ -22,7 +22,7 @@ const { theme } = useData<ThemeConfig>();
 - Mozilla Firefox (PC, Latest)
 - Google Chrome (PC, Latest)
 
-このサイトに不具合・欠陥を見つけた場合は、 [GitHub Issue](https://github.com/zawa-ch/zawa-ch/issues/new/choose) にてお知らせください。
+このサイトに不具合・欠陥を見つけた場合は、 [GitHub Issue](https://github.com/zawa-ch/zawa-ch.stellar-drop.info/issues/new/choose) にてお知らせください。
 
 ## オープンソースライセンス
 このサイトの構築には、
